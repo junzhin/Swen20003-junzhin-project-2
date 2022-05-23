@@ -11,4 +11,5 @@ Flappy Bird is a game where you, as the player, controls a bird by pressing the 
 
 ---
 # Design Class Diagram of the implementations
-![](assets/16532846750472.jpg)
+ ![OOSD Project2Aver6.0-1](assets/OOSD%20Project2Aver6.0-1.png)
+
